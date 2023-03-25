@@ -1,1 +1,5 @@
-https://github.com/jesseixas/atv-som-jms
+Olá, professor!
+
+Segue o link do meu repositório no github: https://github.com/jesseixas/atv-som-jms
+
+Fico à disposição caso surjam quaisquer dúvidas!
